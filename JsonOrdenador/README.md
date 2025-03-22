@@ -1,38 +1,38 @@
-# Visualizador de Configuración de Ordenadores
+# Visualizador de Configuración de Ordenadores 🖥️
 
 Este proyecto es una aplicación Java que permite visualizar detalladamente las especificaciones técnicas de ordenadores almacenadas en formato JSON.
 
-## Características
+## Características ✨
 
-- **Lectura de archivos JSON**: Carga y procesa datos de configuración de ordenadores desde archivos JSON.
-- **Visualización detallada**: Muestra información completa sobre todos los componentes del ordenador.
-- **Interfaz gráfica amigable**: Presenta los datos de forma organizada y visualmente atractiva.
+- **Lectura de archivos JSON** 📂: Carga y procesa datos de configuración de ordenadores desde archivos JSON.
+- **Visualización detallada** 🔍: Muestra información completa sobre todos los componentes del ordenador.
+- **Interfaz gráfica amigable** 🖼️: Presenta los datos de forma organizada y visualmente atractiva.
 
-## Componentes mostrados
+## Componentes mostrados 🛠️
 
-- Información básica (nombre y precio)
-- Procesador(es)
-- Placa(s) base
-- Módulos de RAM
-- Discos duros
-- Fuentes de alimentación
-- Tarjetas gráficas
-- Periféricos (teclado, ratón, monitor)
+- Información básica (nombre y precio) 💰
+- Procesador(es) 🧠
+- Placa(s) base 🖧
+- Módulos de RAM 🧵
+- Discos duros 💾
+- Fuentes de alimentación ⚡
+- Tarjetas gráficas 🎮
+- Periféricos (teclado, ratón, monitor) 🖱️⌨️🖥️
 
-## Tecnologías utilizadas
+## Tecnologías utilizadas 🛠️
 
-- Java 21
-- Swing (para la interfaz gráfica)
-- Gson (para procesamiento de JSON)
-- Lombok (para reducir código boilerplate)
-- Maven (para gestión de dependencias)
+- Java 21 ☕
+- Swing (para la interfaz gráfica) 🖼️
+- Gson (para procesamiento de JSON) 📄
+- Lombok (para reducir código boilerplate) ✂️
+- Maven (para gestión de dependencias) 📦
 
-## Requisitos
+## Requisitos 📋
 
-- Java 21 o superior
-- Maven
+- Java 21 o superior ☕
+- Maven 📦
 
-## Instalación
+## Instalación 🚀
 
 1. Clona este repositorio:
    ```
@@ -49,7 +49,7 @@ Este proyecto es una aplicación Java que permite visualizar detalladamente las 
    mvn clean package
    ```
 
-## Uso
+## Uso 🏃‍♂️
 
 1. Ejecuta la aplicación:
    ```
@@ -58,7 +58,7 @@ Este proyecto es una aplicación Java que permite visualizar detalladamente las 
 
 2. La aplicación cargará automáticamente el archivo de configuración `Ordenador.json`
 
-## Formato del archivo JSON
+## Formato del archivo JSON 📄
 
 El archivo JSON debe tener la siguiente estructura:
 
@@ -78,10 +78,10 @@ El archivo JSON debe tener la siguiente estructura:
 }
 ```
 
-## Autor
+## Autora ✍️
 
 Alisha
 
-## Licencia
+## Licencia 📜
 
 Este proyecto está licenciado bajo MIT
